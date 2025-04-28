@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sathvik P
 - 👀 I’m interested in Cloud Technology and Linux Systems
 - 🌱 I’m currently learning Machine Learning and Javascript
-- 💞️ I’m looking to collaborate on any projects based on Web Technologiesand machine Learning models.
+- 💞️ I’m looking to collaborate on any projects based on Web Technologies and Machine Learning Models.
 - 📫 reach me @sathvikkulal111@gmail.com
 - 😄 Pronouns: He/Him
 
