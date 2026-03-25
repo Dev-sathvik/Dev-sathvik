@@ -9,7 +9,7 @@ I've been learning to code for some time. I aim to get well versed with the mode
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://temp.com)
 * ✉️  You can contact me at [sathvikkulal111@gmail.com](mailto:sathvikkulal111@gmail.com)
-* 🧠  I'm learning JavaScript, React, Angular as well as bit of Machine Learning
+* 🧠  I'm learning JavaScript, React, Django
 * 🤝  I'm open to collaborating on Beginner Level Projects
 
 <a href="https://www.github.com/dev-sathvik" target="_blank" rel="noreferrer"><img
